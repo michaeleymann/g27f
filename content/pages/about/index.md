@@ -1,13 +1,11 @@
 +++
-title = "About me"
+title = "Über das Projekt"
 draft = false
-description = ""
 image = "/img/default-author.jpg"
+description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+# Über das Projekt
 
-mail@example.org
-
-Here should be some info about me...
+Hier folgen Informationen über das Blog-Projekt sowie die Portraits.
