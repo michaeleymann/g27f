@@ -1,5 +1,5 @@
 +++
-title = "„Der König der Wälder“"
+title = "Der König der Wälder"
 date = "2023-09-18"
 draft = true
 pinned = false
