@@ -3,7 +3,7 @@ title = "Wildschweine des Dälhölzlis (mega süss)"
 date = "2023-09-18"
 draft = false
 pinned = false
-tags = ["süss", "knuffig"]
+tags = ["süss", "knuffig", "bestefreundeforever", "faulwiewir"]
 image = "susses-wildschwein.jpg"
 +++
 Unsere besten Freunde: die Wildschweine
