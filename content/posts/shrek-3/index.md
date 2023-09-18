@@ -4,7 +4,7 @@ date = "2023-09-18"
 draft = false
 pinned = false
 tags = ["Shrek", "Film", "Crocs"]
-image = "https://cdn.openart.ai/stable_diffusion/cf1c70323ad32ef981a9b795fd9bf861a722d545_2000x2000.webp"
+image = "https://static.wikia.nocookie.net/shrek/images/5/56/Humpty_Dumpty.png/revision/latest/smart/width/250/height/250?cb=20230601225256"
 description = "dAS IST diE ZuSammENFassung"
 footnotes = ""
 +++
