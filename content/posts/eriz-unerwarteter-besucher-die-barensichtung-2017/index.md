@@ -1,5 +1,5 @@
 +++
-title = "Eriz' unerwarteter Besucher: Die Bärensichtung 2017"
+title = "Der Bär im Eriz 2017"
 date = "2023-09-18"
 draft = false
 pinned = false
