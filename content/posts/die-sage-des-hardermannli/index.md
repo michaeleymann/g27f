@@ -6,4 +6,4 @@ pinned = false
 tags = ["hardermannli", "interlaken", "g27f"]
 image = "dsc09125.jpg"
 +++
-Die Sage des Hardermannli wird in verschiedenen Versionen erzählt. Wir haben uns auf drei verschiedene fokussiert. Die Sage spielt jedoch in allen Erzählungen in Interlaken mitten im Harderwald an einer kahlen Steinstelle.
+Die Sage des Hardermannli wird in verschiedenen Versionen erzählt. Wir haben uns aber nur auf drei fokussiert. Die Sagen spielen in Interlaken mitten im Harderwald. An einer kahlen Felswand krönt das Gesicht einesMannes die Felswand.
