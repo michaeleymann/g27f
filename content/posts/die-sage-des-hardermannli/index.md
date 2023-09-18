@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["hardermannli", "interlaken", "G27f"]
 image = "dsc09125.jpg"
-description = ""
+description = "Über das Steingesicht auf dem Berg Harder erzählt man sich viel."
 +++
 Die Bewohner von Interlaken erzählen sich verschiedene Versionen der Sage des Hardermannli. Wir haben uns aber nur auf drei fokussiert. Das Gesicht des Hardermannli befindet sich auf dem Harder, dem Hausberg von Interlaken. Dort mitten im Wald gibt es eine Felswand, bei der, wenn man genauer hinschaut, das Gesicht eines Mannes zu erkennen ist.
 
