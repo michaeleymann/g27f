@@ -1,7 +1,7 @@
 +++
 title = "Der König der Wälder"
 date = "2023-09-18"
-draft = true
+draft = false
 pinned = false
 tags = ["Natur", "Tiere", "G27f"]
 image = "red-deer-7559423_640.jpg"
