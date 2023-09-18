@@ -1,7 +1,7 @@
 +++
 title = "Dorf Habkern"
 date = "2023-09-18"
-draft = true
+draft = false
 pinned = false
 tags = ["Habkern", "G27f", "Blockwoche", "BernerOberland", "KantonBern", "Interlaken", "Emmental", ""]
 image = "wappen.jpg"
