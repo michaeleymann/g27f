@@ -5,5 +5,6 @@ draft = true
 pinned = false
 tags = ["G27f", "Habkern"]
 image = "chalet-habkern-aussenaufnahme-1.jpg"
+description = ""
 +++
-noch offen
+Die Schweizer-Architektur ist sehr unterschiedlich, ob blockige Industriegebäude oder kurvige Mehrfamilienhäuser. Rund um Habkern herum findet man den wahrscheinlich bekanntesten Baustil der Schweiz: Schweizer Chalets.
