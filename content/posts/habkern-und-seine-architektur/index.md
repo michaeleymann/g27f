@@ -3,7 +3,7 @@ title = "Habkern und seine Architektur"
 date = "2023-09-19"
 draft = true
 pinned = false
-tags = ["G27f", "Habkern"]
+tags = ["G27f", "Habkern", "Architektur", ""]
 image = "chalet-habkern-aussenaufnahme-1.jpg"
 description = ""
 +++
