@@ -4,7 +4,7 @@ date = "2023-09-18"
 draft = false
 pinned = false
 tags = ["Shrek", "Film", "Crocs"]
-image = "https://i.ytimg.com/vi/DjUtVjZP2eg/maxresdefault.jpg"
+image = ""
 description = "dAS IST diE ZuSammENFassung"
 footnotes = ""
 +++
