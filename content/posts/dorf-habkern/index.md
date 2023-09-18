@@ -4,7 +4,7 @@ date = "2023-09-18"
 draft = false
 pinned = false
 tags = ["Habkern", "G27f", "Blockwoche", "BernerOberland", "KantonBern", "Interlaken", "Emmental", ""]
-image = "jpg.jpg"
+image = "wappen.jpg"
 description = "Alles über das Dorf Habkern.\n"
 footnotes = ""
 +++
@@ -21,20 +21,20 @@ Heute ist Habkern immer noch für seine atemberaubenden Berge und seine friedlic
 
 **Kulturelle Aspekte**
 
-Habkern, eingebettet in die Schweizer Alpen, verfügt über eine reiche, von der Natur inspirierte Kultur. Die Menschen hier schätzen die atemberaubende Bergwelt sehr und gehen häufig Outdoor-Aktivitäten wie Wandern und Skifahren nach.
+Habkern, liegt in den Schweizer Alpen und verfügt über eine reiche, von der Natur inspirierte Kultur. Die Menschen hier schätzen die atemberaubende Bergwelt sehr und gehen häufig Outdoor-Aktivitäten wie Wandern und Skifahren nach.
 Das Dorf pflegt die Traditionen und legt den Schwerpunkt auf Schweizer Feste und eine herzhafte Küche. Die charmanten Holzhäuser im Chalet-Stil spiegeln das Erbe der Region wider.
-Die enge Gemeinschaft von Habkern sorgt für starke soziale Bindungen. Sprachlich ist Schweizerdeutsch vorherrschend, aber auch Englisch ist aufgrund des Tourismus weit verbreitet. (kann das wechseln, wenn das nicht stimmt)
-Im Wesentlichen bietet Habkern eine warme Umarmung von Natur, Tradition und Gemeinschaft, die eine einzigartige kulturelle Erfahrung schafft.
+Die enge Gemeinschaft von Habkern sorgt für starke soziale Bindungen. Im Wesentlichen bietet Habkern eine warme Umarmung von Natur, Tradition und Gemeinschaft, die eine einzigartige kulturelle Erfahrung schafft.
 
 **Sehenswürdigkeiten und Points of Interest**
 
-
+In Habkern hat es eine reformierte Kirche namens St. Mauritius, die Beatushöhlen und das Swiss knife valley center
 
 **Natürliche Attraktionen**
-(Bemerkenswerte natürliche Sehenswürdigkeiten und Attraktionen wie Wanderwege, Seen und Aussichtspunkte)
+In Habkern hat es eine Skipiste. Das Dorf liegt in den Berner Voralpen und beliebte Wanderziele sind der Augstmatthorn und der Niederhorn.
 
 **Architektonische und kulturelle Wahrzeichen**
-\[Historische Gebäude, Kirchen oder kulturelle Stätten, die eine kulturelle oder historische Bedeutung haben].
-\[der im Dorf vorherrschende architektonische Stil].
+Ein kulturelles Wahrzeichen von Habkern ist die St. Mauritius Kirche.
+
+Das Ganze Dorf ist im traditionellen stil der schweizer Architektur mit Bauernhäusern und Chalets.
 
 **Unterbringung und Essen**
