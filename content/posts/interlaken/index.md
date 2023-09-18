@@ -6,6 +6,4 @@ pinned = false
 tags = ["Interlaken", "Tourismus", "SchöneStadt", "Blockwoche", "BesteAutoren"]
 image = "interlaken-blog1.jpg"
 +++
-**Interlaken**
-
 Ist Interlaken wirklich so touristisch wie gedacht?
