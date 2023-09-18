@@ -6,4 +6,6 @@ pinned = false
 tags = ["Natur", "Tier", "Pflanzen"]
 image = "flopra-faune-habkern.jpeg"
 +++
- Bei der frischen Bergluft kann man fast nicht sagen, dass die Aussicht atemberaubend ist,
+In Habkern ist die Tier- und Pflanzenwelt sehr ausgeprägt und vielfältig.                                                    Tagsüber kommt es oft vor, dass man dem ein oder anderen Steinbock begegnet. Abends kann man dann die Rothirsche beobachten. Wenn man genauer hinschaut entdeckt man vielleicht sogar ein Edelweiss, oder eine andere Art der Alpenblumen wie zu Beispiel ein 'Primeli' oder eine Anemone, welche nicht nur sehr schön zum anschauen ist, sondern auch weitverbreitet für die Heilung genutzt wird.
+
+Es gibt dort aber noch viele weitere Tiere und Pflanzen zu entdecken.
