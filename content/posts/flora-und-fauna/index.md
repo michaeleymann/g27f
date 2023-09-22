@@ -22,3 +22,11 @@ Sie wächst an den sonnigen Hängen bis zu 150cm hoch und sieht mit ihren strahl
 ![](konigskerze.jpg "Königskerze")
 
 *Wofür ist diese Blume gut?* Die völlig ungiftigen Blüten werden oft als Tee aufgekocht und sollen Beschwerden wie Erkältungen, Halsschmerzen, und vieles mehr lindern. Dazu kommt noch, dass die Königskerze entzündungshemmend ist
+
+
+
+
+
+Im September und Oktober ist die Chance, dass man diese prachtvollen Tiere sieht, sehr hoch, da dann ihre Brunftzeit ist. Das ist die Zeit im Jahr, in der sich die Hirsch-Stiere um die Hirsch-Kühe rangen. Dann kann man sie manchmal röhren hören. Im Frühling kommen dann die Hirsch-Kälber auf die Welt. 
+
+Durchschnittlich werden die Rothirsche um die 14 Jahre alt. Die Kühe können sogar bis zu 17 Jahre lang leben. Sie sind Pflanzenfresser und haben wenig bis gar keine natürlichen Feinde im Wald.
