@@ -32,6 +32,4 @@ In Habkern hat es eine reformierte Kirche namens St. Mauritius, die Beatushöhle
 In Habkern hat es eine Skipiste. Das Dorf liegt in den Berner Voralpen und beliebte Wanderziele sind der Augstmatthorn und der Niederhorn.
 
 **Architektonische und kulturelle Wahrzeichen**
-Ein kulturelles Wahrzeichen von Habkern ist die St. Mauritius Kirche.
-
-Das Ganze Dorf ist im traditionellen stil der schweizer Architektur mit Bauernhäusern und Chalets.
+Ein kulturelles Wahrzeichen von Habkern ist die St. Mauritius Kirche. Das Ganze Dorf ist im traditionellen stil der schweizer Architektur mit Bauernhäusern und Chalets.
