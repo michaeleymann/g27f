@@ -27,7 +27,7 @@ Die enge Gemeinschaft von Habkern sorgt für starke soziale Bindungen. Im Wesent
 
 **Sehenswürdigkeiten und Points of Interest**
 
-In Habkern hat es eine reformierte Kirche namens St. Mauritius, die Beatushöhlen und das Swiss knife valley center
+In Habkern hat es eine reformierte Kirche namens St. Mauritius, die Beatushöhlen und das Swiss knife valley center. Es hat ein Ortsmuseum in Habkern, in dem man die Gemeinde betreffende Informationen findet. Der Eintritt ins Museum ist frei, jedoch wenn man eine Führung haben will, muss man 50 franken zahlen. Das ganze Museum befindet sich im Gebäude: Altes Schulhaus
 
 **Natürliche Attraktionen**
 In Habkern hat es eine Skipiste. Das Dorf liegt in den Berner Voralpen und beliebte Wanderziele sind der Augstmatthorn und der Niederhorn.
