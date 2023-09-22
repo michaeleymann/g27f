@@ -3,7 +3,7 @@ title = "Flora und Fauna "
 date = "2023-09-18"
 draft = false
 pinned = false
-tags = ["Natur", "Tier", "Pflanzen"]
+tags = ["Natur", "Tier", "Pflanzen", "G27f", "Habkern", "Blockwoche"]
 image = "flopra-faune-habkern.jpeg"
 description = "über die vielfältige Pflanzen- und Tierwelt von Habkern"
 +++
