@@ -8,12 +8,11 @@ image = "chalet-habkern-aussenaufnahme-1.jpg"
 description = ""
 footnotes = ""
 +++
-Die Schweizer-Architektur ist sehr unterschiedlich, ob blockige Industriegebäude oder kurvige Mehrfamilienhäuser. In Habkern, einer Gemeinde im Berner-Oberland, findet man den wahrscheinlich bekanntesten Baustil der Schweiz: Schweizer Chalets.
+Die Schweizer Architektur ist sehr vielfältig, ob es sich um blockige Industriegebäude oder geschwungene Mehrfamilienhäuser handelt. In Habkern, einer Gemeinde im Berner Oberland, findet man den wohl bekanntesten Baustil der Schweiz: Schweizer Chalets.
 
-Alle Häuser, die wir angetroffen haben, haben eine Grundierung aus Stein mit einem holzigen Obergeschoss. \
-Das Holz wurde wahrscheinlich gebraucht, weil es ein schönes, natürliches und formbares Material ist, ausserdem ist es in der Gegend sehr verbreitet. Der Stein wird gebraucht, um die Gefahr von Feuer zu verringern. \
-Die meisten Häuser kann man nicht wirklich unterscheiden, da sie alle etwa gleich aussehen. Auch Nutzgebäude wie die Feuerwehr sind zu verwechseln mit normalen Wohngebäuden.\
-In unserem Gruppenhaus fühlten wir uns zwei Meter gross, da die Decke ziemlich tief war und mehrere Holzbalken nach unten ragten, bei denen wir uns den Kopf angeschlagen haben.\
-In der Dorfmitte befindet sich eine Ansammlung von verschiedensten Häusern. Strassennetze führen von der Dorfmitte in alle Richtungen mit vereinzelten Häuser, die sich ohne ersichtliches System, in der Landschaft stehen Ein zentraler Platz mit Brunnen öffnet das sonst dicht bebaute Dorfzentrum. 
+Alle Häuser, die wir dort angetroffen haben, besitzen ein Fundament aus Stein mit einem holzverkleideten Obergeschoss. Das Holz wurde wahrscheinlich gewählt, weil es ein schönes, natürliches und formbares Material ist, das zudem in der Region weit verbreitet ist. Der Einsatz von Stein dient dazu, die Brandgefahr zu minimieren.\
+Die meisten Häuser kann man kaum voneinander unterscheiden, da sie alle nahezu identisch aussehen. Selbst Nutzgebäude wie die Feuerwehrstation sind von außen kaum von normalen Wohngebäuden zu unterscheiden.\
+In unserem Gruppenhaus fühlten wir uns fast zu groß, da die Decke recht niedrig war und mehrere Holzbalken herabhingen, an denen wir uns den Kopf stießen.\
+Im Zentrum des Dorfes findet man eine Ansammlung von verschiedensten Häusern. Straßen führen von dort in alle Richtungen, und vereinzelte Häuser scheinen ohne ein erkennbares System in der Landschaft zu stehen. Ein zentraler Platz mit einem Brunnen lockert das sonst dicht bebaute Dorfzentrum auf.
 
-Uns gefällt der Baustil von Habkern. Die Häuser sind sehr ähnlich, doch haben immer etwas, das sie einzigartig macht.
+Uns gefällt der Baustil von Habkern. Die Häuser ähneln sich sehr, haben aber dennoch immer etwas Einzigartiges an sich.
