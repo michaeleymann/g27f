@@ -14,3 +14,5 @@ Alle Häuser, die wir angetroffen haben, haben eine Grundierung aus Stein mit ei
 Das Holz wurde wahrscheinlich gebraucht, weil es ein schönes, natürliches und formbares Material ist, ausserdem ist es in der Gegend sehr verbreitet. Der Stein wird gebraucht, um die Gefahr von Feuer zu verringern. Die meisten Häuser kann man nicht wirklich unterscheiden, da sie alle etwa gleich aussehen. \
 In unserem Gruppenhaus fühlten wir uns zwei Meter gross, da die Decke ziemlich tief war und mehrere Holzbalken nach unten ragten, bei denen wir uns den Kopf angeschlagen haben.\
 In der Dorfmitte befindet sich eine Ansammlung von verschiedensten Häusern. Strassennetze führen von der Dorfmitte in alle Richtungen mit vereinzelten Häuser über die Landschaft verteilt. Ein grosser Teil von den habkernischen Bergen ist bedeckt von Alpweiden.
+
+Uns gefällt der Baustil von Habkern. Die Häuser sind sehr ähnlich, doch haben immer etwas, das sie einzigartig macht.
