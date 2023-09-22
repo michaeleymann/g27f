@@ -8,6 +8,8 @@ image = "wappen.jpg"
 description = "Alles über das Dorf Habkern.\n"
 footnotes = ""
 +++
+Für diese Blockwoche blieben wir in Habkern, um uns besser kennen zu lernen und eine kleine Pause nach den ersten 5 Wochen Schule zu genießen. Hier ist ein Überblick darüber, wo wir in diesen 3 Tagen wohnten:
+
 Habkern ist ein kleines Dorf im Herzen vom Berner Oberland, an der Grenze mit dem Emmental. Nördlich von Interlaken und etwa eine halbe Stunde entfernt. Es ist in der nähe vom Brienzer und Thunersee und liegt an der grenze die vom Hohgant gebildet wird.
 
 Das Dorf bietet einen atemberaubenden Blick auf die umliegenden Berge, darunter die berühmten Gipfel von Eiger, Mönch und Jungfrau. Es ist ein hervorragender Ausgangspunkt zum Wandern, Skifahren und für andere Outdoor-Aktivitäten. Die Gegend ist bekannt für ihre schönen Landschaften, unberührten Wälder und die ruhige Atmosphäre.
