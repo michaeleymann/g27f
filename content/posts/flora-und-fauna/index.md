@@ -9,9 +9,9 @@ description = ""
 +++
 In Habkern ist die Tier- und Pflanzenwelt sehr ausgeprägt und vielfältig. Tagsüber kommt es oft vor, dass man dem ein oder anderen Steinbock begegnet. Abends kann man dann die Rothirsche beobachten. 
 
-Wenn man genauer hinschaut entdeckt man vielleicht ein Edelweiss, oder eine andere Art der Alpenblumen wie zu Beispiel ein 'Primeli' oder eine Anemone, welche nicht nur sehr schön zum anschauen ist, sondern auch weitverbreitet für die Heilung genutzt wird.
+Zu der Vegetation von Habkern gehören Blumen, Bäume, Sträucher und vieles mehr. Diese Vielfalt an Pflanzenarten ist sehr beeindruckend und lässt den Ein oder Anderen oftmals staunen. 
 
-Es gibt in Habkern aber noch viele weitere Tiere und Pflanzen zu entdecken.
+Die Flora und somit auch die Vegetation in Habkern wird hauptsächlich durch die Höhenlage, den geologischen Untergrund, die Topografie, die klimatischen Bedingungen und die menschliche Nutzung geprägt. Ein Grossteil des Gebietes liegt in der Nadelwaldstufe mit kühl-feuchten Bedingungen und wasserstauenden Böden aus Flysch (ein Gestein welches oft zu Hangrutschen neigt).                                    Über der Waldgrenze wachsen vor allem alpine Rasen. Den Schatz der Lombachalp bilden die Hochmoore. Sie sind hier in einer Qualität vorhanden, die schweizweit selten ist. Hier wachsen Pflanzen wie der Sonnentau, die im Konkurrenzkampf mit anderen Pflanzen an anderen Standorten keine Chance haben.
 
 Wir als Klasse waren kurz vor dem Winter in Habkern und haben dort dementsprechend nicht so viele Blumen und Tiere gesehen. Doch das was wir gesehen haben war toll. Wenn wir von unserem Titel ausgehen wollen beginnen wir bei den ganzen Blumen, Moosen und Bäumen. 
 
