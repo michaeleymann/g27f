@@ -22,7 +22,8 @@ Heute ist Habkern immer noch für seine atemberaubenden Berge und seine friedlic
 **Kulturelle Aspekte**
 
 Habkern, liegt in den Schweizer Alpen und verfügt über eine reiche, von der Natur inspirierte Kultur. Die Menschen hier schätzen die atemberaubende Bergwelt sehr und gehen häufig Outdoor-Aktivitäten wie Wandern und Skifahren nach.
-Das Dorf pflegt die Traditionen und legt den Schwerpunkt auf Schweizer Feste und eine herzhafte Küche. Die charmanten Holzhäuser im Chalet-Stil spiegeln das Erbe der Region wider. Im Wesentlichen bietet Habkern eine warme Umarmung von Natur, Tradition und Gemeinschaft, die eine einzigartige kulturelle Erfahrung schafft.
+Das Dorf pflegt die Traditionen und legt den Schwerpunkt auf Schweizer Feste und eine herzhafte Küche. Die charmanten Holzhäuser im Chalet-Stil spiegeln das Erbe der Region wider.
+Die enge Gemeinschaft von Habkern sorgt für starke soziale Bindungen. Im Wesentlichen bietet Habkern eine warme Umarmung von Natur, Tradition und Gemeinschaft, die eine einzigartige kulturelle Erfahrung schafft.
 
 **Sehenswürdigkeiten und Points of Interest**
 
@@ -32,4 +33,10 @@ In Habkern hat es eine reformierte Kirche namens St. Mauritius, die Beatushöhle
 In Habkern hat es eine Skipiste. Das Dorf liegt in den Berner Voralpen und beliebte Wanderziele sind der Augstmatthorn und der Niederhorn.
 
 **Architektonische und kulturelle Wahrzeichen**
-Ein kulturelles Wahrzeichen von Habkern ist die St. Mauritius Kirche. Das Ganze Dorf ist im traditionellen stil der schweizer Architektur mit Bauernhäusern und Chalets.
+Ein kulturelles Wahrzeichen von Habkern ist die St. Mauritius Kirche.
+
+Das Ganze Dorf ist im traditionellen stil der schweizer Architektur mit Bauernhäusern und Chalets.
+
+**Unterbringung und Essen**
+
+Wir hatten das Glück, für die drei Tage, die wir in Habkern verbrachten, im Gästehaus Hof Maiezyt zu wohnen. Um dorthin zu gelangen, muss man etwa 10-15 Minuten laufen, aber das Haus war gemütlich und komfortabel und es war ein sehr entspannender Ort zum Verweilen.
