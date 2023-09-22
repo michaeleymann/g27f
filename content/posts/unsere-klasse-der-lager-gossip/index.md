@@ -1,7 +1,7 @@
 +++
 title = "Unsere Klasse - Der Lager-Gossip"
 date = "2023-09-18"
-draft = true
+draft = false
 pinned = true
 tags = ["G27f", "gymkirchenfeld", "Blockwoche"]
 image = "hof-maiezyt-in-habkern.jpeg"
