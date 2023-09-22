@@ -3,8 +3,8 @@ title = "Flora und Fauna "
 date = "2023-09-18"
 draft = false
 pinned = false
-tags = ["Natur", "Tier", "Pflanzen", "G27f", "Habkern", "Blockwoche"]
-image = "flopra-faune-habkern.jpeg"
+tags = ["Natur", "Tier", "Pflanzen"]
+image = "img_7695-1-.jpg"
 description = "über die vielfältige Pflanzen- und Tierwelt von Habkern"
 +++
 In Habkern ist die Tier- und Pflanzenwelt sehr ausgeprägt und vielfältig. Tagsüber kommt es oft vor, dass man dem ein oder anderen Steinbock begegnet. Abends kann man dann die Rothirsche beobachten. 
