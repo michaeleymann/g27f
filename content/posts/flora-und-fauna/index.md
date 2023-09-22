@@ -9,8 +9,12 @@ description = ""
 +++
 In Habkern ist die Tier- und Pflanzenwelt sehr ausgeprägt und vielfältig. Tagsüber kommt es oft vor, dass man dem ein oder anderen Steinbock begegnet. Abends kann man dann die Rothirsche beobachten. 
 
-Zu der Vegetation von Habkern gehören Blumen, Bäume, Sträucher und vieles mehr. Diese Vielfalt an Pflanzenarten ist sehr beeindruckend und lässt den Ein oder Anderen oftmals staunen. 
+Wenn man genauer hinschaut entdeckt man vielleicht ein Edelweiss, oder eine andere Art der Alpenblumen wie zu Beispiel ein 'Primeli' oder eine Anemone, welche nicht nur sehr schön zum anschauen ist, sondern auch weitverbreitet für die Heilung genutzt wird.
 
 Es gibt in Habkern aber noch viele weitere Tiere und Pflanzen zu entdecken.
 
-Wir als Klasse waren kurz vor dem Winter in Habkern und haben dort dementsprechend nicht so viele Pflanzen und Tiere gesehen.
+Wir als Klasse waren kurz vor dem Winter in Habkern und haben dort dementsprechend nicht so viele Blumen und Tiere gesehen. Doch das was wir gesehen haben war toll. Wenn wir von unserem Titel ausgehen wollen beginnen wir bei den ganzen Blumen, Moosen und Bäumen. 
+
+**Die Königskerze**
+
+Sie wächst an den sonnigen Hängen bis zu 150cm hoch und sieht mit ihren strahlend gelben Blüten königlich aus. Die Königskerze (Verbascum) gehört zu der Familie der Braunwurzgewächse
