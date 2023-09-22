@@ -35,5 +35,3 @@ In Habkern hat es eine Skipiste. Das Dorf liegt in den Berner Voralpen und belie
 Ein kulturelles Wahrzeichen von Habkern ist die St. Mauritius Kirche.
 
 Das Ganze Dorf ist im traditionellen stil der schweizer Architektur mit Bauernhäusern und Chalets.
-
-**Unterbringung und Essen**
