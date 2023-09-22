@@ -1,6 +1,6 @@
 +++
 title = "Habkern und seine Architektur"
-date = "2023-09-19"
+date = "2023-09-18"
 draft = false
 pinned = false
 tags = ["G27f", "Habkern", "Architektur"]
