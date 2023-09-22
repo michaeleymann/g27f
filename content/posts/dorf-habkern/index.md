@@ -35,10 +35,8 @@ In Habkern hat es eine reformierte Kirche namens St. Mauritius, die Beatushöhle
 In Habkern hat es eine Skipiste. Das Dorf liegt in den Berner Voralpen und beliebte Wanderziele sind der Augstmatthorn und der Niederhorn. Das ganze Dorf ist von der Moorlandschaft geprägt und wird von Wäldern umzingelt.
 
 **Architektonische und kulturelle Wahrzeichen**
-Ein kulturelles Wahrzeichen von Habkern ist die St. Mauritius Kirche.
-
-Das Ganze Dorf ist im traditionellen stil der schweizer Architektur mit Bauernhäusern und Chalets.
+Ein kulturelles Wahrzeichen von Habkern ist die St. Mauritius Kirche. Das Ganze Dorf ist im traditionellen Stil der schweizer Architektur mit Bauernhäusern und Chalets.
 
 **Unterbringung und Essen**
 
-Wir hatten das Glück, für die drei Tage, die wir in Habkern verbrachten, im Gästehaus Hof Maiezyt zu wohnen. Um dorthin zu gelangen, muss man etwa 10-15 Minuten laufen, aber das Haus war gemütlich und komfortabel und es war ein sehr entspannender Ort zum Verweilen. Was die Restaurants betrifft, so gibt es in Habkern nicht viel, das einzige, was wir finden konnten, ist ein Restaurant namens Alpenblick, das wir kurz im Dorf gesehen haben, aber nicht selbst besuchen konnten. Die Speisekarte des Restaurants Alpenblick ist ein Fest der Schweizer kulinarischen Traditionen. Vom klassischen Käsefondue bis zum perfekt zubereiteten Schnitzel ist jedes Gericht ein Zeugnis für das Engagement des Küchenchefs, die Aromen der Region zu bewahren. Lokal bezogene Zutaten sorgen dafür, dass jeder Bissen frisch und voller authentischem Alpengeschmack ist.
+Wir hatten das Glück, für die drei Tage, die wir in Habkern waren, im Gästehaus Hof Maiezyt zu wohnen. Um dorthin zu gelangen, muss man etwa 10-15 Minuten laufen, das Haus war gemütlich und komfortabel und es war ein sehr entspannender Ort zum Verweilen. Was die Restaurants betrifft, so gibt es in Habkern nicht viel. Das einzige, was wir finden konnten, ist ein Restaurant namens Alpenblick, das wir kurz im Dorf gesehen haben, aber nicht selbst besuchen konnten. Die Speisekarte des Restaurants Alpenblick ist voll mit traditonell schweizerischen Speisen. Vom klassischen Käsefondue bis zum perfekten Schnitzel ist alles mit Leidenschaft und Herz zubereitet. Lokale Zutaten sorgen dafür, dass jeder Biss frisch und authentisch ist.
