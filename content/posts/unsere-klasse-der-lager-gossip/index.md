@@ -9,7 +9,7 @@ description = "Hi!\nWir stellen euch heute die Klasse G27f vor."
 +++
 **EINLEITUNG**
 
-In unserer Blockwoche geht es nach Habkern. Habkern ist eine Gemeinde im Berner Oberland. Wir reisen per Zug und einmal auch mit dem Schiff. Wenn du mehr über diesen Ort erfahren willst, dann gibt es für dich genau den richtigen Artikel von Cyprian und Gabriel. In unserem Artikel erfährst du viel über uns als Klasse und über die verschiedenen Dinge die wir zusammen in unserer Blockwoche erlebt haben. Viel Spass!
+In unserer Blockwoche geht es nach Habkern. Habkern ist eine Gemeinde im Berner Oberland. Wir reisen per Zug und einmal auch mit dem Schiff. Wenn du mehr über diesen Ort erfahren willst, dann gibt es für dich genau den richtigen Artikel von Cyprian und Gabriel. In unserem Artikel erfährst du etwas über unsere Klasse und über die verschiedenen Dinge die wir zusammen in unserer Blockwoche erlebt haben. Viel Spass!
 
 **DAS GEMEINSAME KOCHEN**
 
