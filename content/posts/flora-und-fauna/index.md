@@ -9,7 +9,7 @@ description = ""
 +++
 In Habkern ist die Tier- und Pflanzenwelt sehr ausgeprägt und vielfältig. Tagsüber kommt es oft vor, dass man dem ein oder anderen Steinbock begegnet. Abends kann man dann die Rothirsche beobachten. 
 
-Wenn man genauer hinschaut entdeckt man vielleicht ein Edelweiss, oder eine andere Art der Alpenblumen wie zu Beispiel ein 'Primeli' oder eine Anemone, welche nicht nur sehr schön zum anschauen ist, sondern auch weitverbreitet für die Heilung genutzt wird.
+Zu der Vegetation von Habkern gehören Blumen, Bäume, Sträucher und vieles mehr. Diese Vielfalt an Pflanzenarten ist sehr beeindruckend und lässt den Ein oder Anderen oftmals staunen. 
 
 Es gibt in Habkern aber noch viele weitere Tiere und Pflanzen zu entdecken.
 
