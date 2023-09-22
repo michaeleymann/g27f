@@ -19,10 +19,10 @@ Wir als Klasse waren kurz vor dem Winter in Habkern und haben dort dementspreche
 
 Sie wächst an den sonnigen Hängen bis zu 150cm hoch und sieht mit ihren strahlend gelben Blüten königlich aus. Die Königskerze (Verbascum) gehört zu der Familie der Braunwurzgewächse, diese Gattung umfasst etwa 300 Arten und ist in Eurasien weit verbreitet. Sie ist sehr robust und überhaupt nicht anspruchsvoll wenn es um die Bodenbeschaffenheit geht, deshalb wächst die auch so gut an den teils trockenen Hängen.
 
-
-
 **Die Rothirsche**
 
 Im September und Oktober ist die Chance, dass man diese prachtvollen Tiere sieht, sehr hoch, da dann ihre Brunftzeit ist. Das ist die Zeit im Jahr, in der sich die Hirsch-Stiere um die Hirsch-Kühe rangen. Dann kann man sie manchmal röhren hören. Im Frühling kommen dann die Hirsch-Kälber auf die Welt. 
 
 Durchschnittlich werden die Rothirsche um die 14 Jahre alt. Die Kühe können sogar bis zu 17 Jahre lang leben. Sie sind Pflanzenfresser und haben wenig bis gar keine natürlichen Feinde im Wald.
+
+Als wir die Rothirsche beobachtet haben, waren wir in einer Jägerhütte gegenüber des Berghanges, mit den Hirschen, und haben durch Fernrohre und -Gläser die Tiere beobachtet. Es kam sogar vor, dass wir ein paar Gemsche entdeckt haben.
