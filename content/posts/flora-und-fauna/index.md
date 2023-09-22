@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Natur", "Tier", "Pflanzen"]
 image = "flopra-faune-habkern.jpeg"
-description = "Ein Bericht über die vielfältige Flora und Fauna von Habkern."
+description = ""
 +++
 In Habkern ist die Tier- und Pflanzenwelt sehr ausgeprägt und vielfältig. Tagsüber kommt es oft vor, dass man dem ein oder anderen Steinbock begegnet. Abends kann man dann die Rothirsche beobachten. 
 
@@ -13,8 +13,8 @@ Zu der Vegetation von Habkern gehören Blumen, Bäume, Sträucher und vieles meh
 
 Die Flora und somit auch die Vegetation in Habkern wird hauptsächlich durch die Höhenlage, den geologischen Untergrund, die Topografie, die klimatischen Bedingungen und die menschliche Nutzung geprägt. Ein Grossteil des Gebietes liegt in der Nadelwaldstufe mit kühl-feuchten Bedingungen und wasserstauenden Böden aus Flysch (ein Gestein welches oft zu Hangrutschen neigt).                                    Über der Waldgrenze wachsen vor allem alpine Rasen. Den Schatz der Lombachalp bilden die Hochmoore. Sie sind hier in einer Qualität vorhanden, die schweizweit selten ist. Hier wachsen Pflanzen wie der Sonnentau, die im Konkurrenzkampf mit anderen Pflanzen an anderen Standorten keine Chance haben.
 
-Wir als Klasse waren kurz vor dem Winter in Habkern und haben dort dementsprechend nicht so viele Blumen und Tiere gesehen. Doch das was wir gesehen haben war toll. Wenn wir von unserem Titel ausgehen wollen beginnen wir bei den ganzen Blumen, Moosen und Bäumen. 
+Wir als Klasse waren kurz vor dem Winter in Habkern und haben dort dementsprechend nicht so viele Blumen und Tiere gesehen. Im Sommer sind die Wiesen gefüllt on Blüten und Tierchen die sobald es kälter wird nicht mehr so präsent sind. Doch das was wir gesehen haben war toll. Wenn wir von unserem Titel ausgehen wollen beginnen wir bei den ganzen Blumen, Moosen und Bäumen. 
 
 **Die Königskerze**
 
-Sie wächst an den sonnigen Hängen bis zu 150cm hoch und sieht mit ihren strahlend gelben Blüten königlich aus. Die Königskerze (Verbascum) gehört zu der Familie der Braunwurzgewächse
+Sie wächst an den sonnigen Hängen bis zu 150cm hoch und sieht mit ihren strahlend gelben Blüten königlich aus. Die Königskerze (Verbascum) gehört zu der Familie der Braunwurzgewächse, diese Gattung umfasst etwa 300 Arten und ist in Eurasien weit verbreitet.
