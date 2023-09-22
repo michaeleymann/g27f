@@ -23,4 +23,16 @@ Obwohl diese Wanderung warscheinlich nicht das Lieblingserlebnis für jede*n war
 
 Im Lagerhaus hatte es insgesamt fünf Schlafzimmer. Es gab ein 10er-Zimmer, ein 8er-Zimmer, ein 3er-Zimmer und zwei 2er-Zimmer. Die Zimmerverteilung fanden wir sehr gut und alle waren zufrieden damit. Den Tag durch verbrachten wir sowieso meistens alle gemeinsam oder in random Gruppen und in den einzelnen Zimmergruppen waren wir eigentlich nur beim schlafen.
 
+**LAGER-ZITATE**
+
+"I bi nid im bestie-modus, i bi im sleeping beauty-modus!" - Levin
+
+"Boah, i ha so carbings!" - Levin versucht "cravings" zu sagen.
+
+"Was stücken wir früh?" - Gabriel
+
+"I ha gmeint es heisst fishermen's fresh!" - Levin
+
+"Was machsch du?" - Selina                                                                                                                                        "Packe, was söui schüsch mache, gränne?" - Teresa
+
 **Alles in allem hat uns allen das Lager sehr gut gefallen. Es war eine gute Gelegenheit einander besser kennenzulernen und als Klasse ein bisschen zusammenzuwachsen.**
