@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Natur", "Tier", "Pflanzen"]
 image = "flopra-faune-habkern.jpeg"
-description = "wir spucken "
+description = "über die Flora und Fauna von Habkern"
 +++
 In Habkern ist die Tier- und Pflanzenwelt sehr ausgeprägt und vielfältig. Tagsüber kommt es oft vor, dass man dem ein oder anderen Steinbock begegnet. Abends kann man dann die Rothirsche beobachten. 
 
