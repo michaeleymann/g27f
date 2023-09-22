@@ -9,12 +9,12 @@ description = "Hi!\nWir stellen euch heute die Klasse G27f vor."
 +++
 **EINLEITUNG**
 
-In unserer Blockwoche geht es nach Habkern. Habkern ist eine Gemeinde im Berner Oberland. Wir reisen per Zug und einmal auch mit dem Schiff. Wenn du mehr über diesen Ort erfahren willst, dann gibt es für dich genau den richtigen Artikel von Cyprian und Gabriel. In unserem Artikel erfährst du viel über uns als Klasse und über die verschiedenen Dinge die wir zusammen in unserer Blockwoche erlebt haben.
+In unserer Blockwoche geht es nach Habkern. Habkern ist eine Gemeinde im Berner Oberland. Wir reisen per Zug und einmal auch mit dem Schiff. Wenn du mehr über diesen Ort erfahren willst, dann gibt es für dich genau den richtigen Artikel von Cyprian und Gabriel. In unserem Artikel erfährst du viel über uns als Klasse und über die verschiedenen Dinge die wir zusammen in unserer Blockwoche erlebt haben. Viel Spass!
 
 **DAS GEMEINSAME KOCHEN**
 
-Am Mittwochabend haben Simona, Eva, Liah und Emma zusammen mit Mike Spaghetti mit verschiedenen Saucen gekocht. Man konnte auswählen zwischen einer veganen Bolognese, veganer Pesto, einer normalen Tomatensauce, einer normalen Pesto und einer Steinpilzsauce. Das Essen war sehr lecker und wir fanden, dass das gemeinsame Abendessen sehr gemütlich und lustig war.
+Am Mittwochabend kochen wir alle zusammen Pasta mit veganer Bolognese.
 
-**DIE ZIMMERVERTEILUNG**
+**DIE LIEBLINGSERLEBNISSE**
 
-Im Lagerhaus gab es insgesamt fünf Schlafzimmer. Ein 8er-Zimmer, ein 10er-Zimmer, zwei 2er-Zimmer und ein 3er-Zimmer. Wir fanden die Zimmerverteilung sehr gut, weil eigentlich haben wir den Tag durch alle zusamen Zeit verbracht und waren nur wirklich in den Zimmergruppen wenn wir schlafen gingen.
+**Die Wanderung:** Obwohl diese Wanderung warscheinlich nicht das Lieblingserlebnis für jede und jeden war, muss man doch davon erzählen. Wir starteten unsere Wanderung über das Niederhorn früh am Morgen. Als wir dann alle um ca. 9 Uhr mit allem nötigen vor dem Haus standen, ging die Wanderung auch schon los. Als wir die Gondel nach oben genommen haben ging es entgegen dazu das uns gesagt wurde dass es meist nach unten gehen würde, nach oben den Berg hinauf. Doch als dann endlich der Weg sich wieder nach unten beugte war es doch nicht all zu schlimm gewesen nach oben zu laufen. Denn bald schon merkten wir dass die ganze Zeit nach unten laufen über Gestein, steile und dünne wege und Sumpflandschaften doch nicht der reinste Spaziergang war.
